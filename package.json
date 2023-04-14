@@ -1,0 +1,25 @@
+{
+  "name": "markdown_with_vanillajs",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript로 Markdown Editor 만들기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonystory98/Markdown_with_VanillaJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoonystory98/Markdown_with_VanillaJS/issues"
+  },
+  "homepage": "https://github.com/hoonystory98/Markdown_with_VanillaJS#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "^2.8.7"
+  }
+}
